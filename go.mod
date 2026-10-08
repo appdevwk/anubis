@@ -9,7 +9,7 @@ require (
 	github.com/facebookgo/flagenv v0.0.0-20160425205200-fcd59fca7456
 	github.com/gaissmai/bart v0.20.4
 	github.com/golang-jwt/jwt/v5 v5.2.2
-	github.com/google/cel-go v0.25.0
+	github.com/google/cel-go v0.31.0
 	github.com/google/uuid v1.6.0
 	github.com/grpc-ecosystem/go-grpc-middleware/providers/prometheus v1.1.0
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.3.2
@@ -33,7 +33,7 @@ require (
 require (
 	al.essio.dev/pkg/shellescape v1.6.0 // indirect
 	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.36.6-20250425153114-8976f5be98c1.1 // indirect
-	cel.dev/expr v0.23.1 // indirect
+	cel.dev/expr v0.25.1 // indirect
 	dario.cat/mergo v1.0.2 // indirect
 	github.com/AlekSi/pointer v1.2.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
@@ -47,7 +47,7 @@ require (
 	github.com/TecharoHQ/yeet v0.6.0 // indirect
 	github.com/a-h/parse v0.0.0-20250122154542-74294addb73e // indirect
 	github.com/andybalholm/brotli v1.1.0 // indirect
-	github.com/antlr4-go/antlr/v4 v4.13.0 // indirect
+	github.com/antlr4-go/antlr/v4 v4.13.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/blakesmith/ar v0.0.0-20190502131153-809d4375e1fb // indirect
 	github.com/cavaliergopher/cpio v1.0.1 // indirect
@@ -134,7 +134,6 @@ require (
 	github.com/skeema/knownhosts v1.3.1 // indirect
 	github.com/spf13/afero v1.14.0 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
-	github.com/stoewer/go-strcase v1.3.0 // indirect
 	github.com/stretchr/testify v1.10.0 // indirect
 	github.com/suzuki-shunsuke/logrus-error v0.1.4 // indirect
 	github.com/suzuki-shunsuke/pinact v1.6.0 // indirect
@@ -156,9 +155,9 @@ require (
 	go.opentelemetry.io/otel/trace v1.37.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.7.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
-	go.yaml.in/yaml/v3 v3.0.3 // indirect
+	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/crypto v0.39.0 // indirect
-	golang.org/x/exp v0.0.0-20240719175910-8a7402abbf56 // indirect
+	golang.org/x/exp v0.0.0-20240823005443-9b4947da3948 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20231108232855-2478ac86f678 // indirect
 	golang.org/x/mod v0.25.0 // indirect
 	golang.org/x/oauth2 v0.28.0 // indirect
@@ -171,7 +170,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250528174236-200df99c418a // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250528174236-200df99c418a // indirect
-	google.golang.org/protobuf v1.36.6 // indirect
+	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	honnef.co/go/tools v0.6.1 // indirect
 	mvdan.cc/sh/v3 v3.11.0 // indirect
